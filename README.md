@@ -21,11 +21,7 @@ Este repositório foi criado para aprender:
 
 ## 📂 Estrutura do projeto
 
- - eu mesmo
-## 👨‍💻 Autor
-
-Feito por **nubzw**
-
----
-
-pega a visao! 😄
+ - para ver quaisquer mudanças em seu README.ME use "git status"
+ - depois que detectar a mudança use "git add ."
+ - depois use "git commit -m "o titulo que vc preferir"
+ - pra finalizar e colocar em seu github use "git push origin main"
