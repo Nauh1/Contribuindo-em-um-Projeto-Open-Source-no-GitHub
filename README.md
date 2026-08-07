@@ -5,10 +5,10 @@ esse é o primeiro projeto de muitos **pega a visao**.
 
 ## 📌 Sobre o projeto
 
-Este repositório foi criado para aprender:
+Este repositório foi criado para:
 
-- Como funciona o Git
-- Como usar commits
+- ver minha Evolução
+- aprender a usar commit
 - Como enviar projetos para o GitHub
 - Como organizar códigos
 
