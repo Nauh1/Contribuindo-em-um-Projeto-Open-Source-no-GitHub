@@ -1,7 +1,7 @@
 
 # 🚀 Meu Primeiro Projeto
 
-Olá! Esse é o meu primeiro projeto usando **Git e GitHub**.
+esse é o primeiro projeto de muitos **pega a visao**.
 
 ## 📌 Sobre o projeto
 
@@ -28,4 +28,4 @@ Feito por **nubzw**
 
 ---
 
-Obrigado por visitar meu projeto! 😄
+pega a visao! 😄
