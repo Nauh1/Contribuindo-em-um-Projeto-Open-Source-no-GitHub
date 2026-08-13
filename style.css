@@ -1,16 +1,28 @@
-h1 {
-    color: rgb(0, 140, 255);
-    font-size: 2.5rem;
-    text-align: center;
-    margin-top: 25px;
-}
-
-
 .titulo {
-    color: rgb(0, 140, 255);
+    color: white;
     font-size: 2rem;
     text-align: center;
     margin-top: 25px;
+    background-color: rgb(60, 60, 60);
 }
 
+body {
+    background-color: rgb(51, 51, 51);
+}
 
+.titulo2 {
+    text-align: center;
+    color: white;
+}
+
+.comandos {
+    margin-left: 25px;
+    font-size: large;
+    color: white;
+    background-color: rgb(49, 49, 49);
+    border: 1px solid rgb(45, 45, 45);
+}
+
+p{
+    margin-left: 20px;
+}
